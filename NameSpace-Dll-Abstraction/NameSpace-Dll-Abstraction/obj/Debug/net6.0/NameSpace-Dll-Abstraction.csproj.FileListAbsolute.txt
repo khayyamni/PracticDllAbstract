@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\bin\Debug\net6.0\NameSpace-Dll-Abstraction.exe
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\bin\Debug\net6.0\NameSpace-Dll-Abstraction.deps.json
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\bin\Debug\net6.0\NameSpace-Dll-Abstraction.runtimeconfig.json
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\bin\Debug\net6.0\NameSpace-Dll-Abstraction.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\bin\Debug\net6.0\NameSpace-Dll-Abstraction.pdb
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\obj\Debug\net6.0\NameSpace-Dll-Abstraction.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\obj\Debug\net6.0\NameSpace-Dll-Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\obj\Debug\net6.0\NameSpace-Dll-Abstraction.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\obj\Debug\net6.0\NameSpace-Dll-Abstraction.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\obj\Debug\net6.0\NameSpace-Dll-Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\obj\Debug\net6.0\NameSpace-Dll-Abstraction.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\obj\Debug\net6.0\refint\NameSpace-Dll-Abstraction.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\obj\Debug\net6.0\NameSpace-Dll-Abstraction.pdb
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\obj\Debug\net6.0\NameSpace-Dll-Abstraction.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\N.Space-Dell-Const-Readonly-Abstrac Class\NameSpace-Dll-Abstraction\NameSpace-Dll-Abstraction\obj\Debug\net6.0\ref\NameSpace-Dll-Abstraction.dll
